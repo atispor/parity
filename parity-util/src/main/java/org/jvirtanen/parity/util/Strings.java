@@ -6,6 +6,8 @@ package org.jvirtanen.parity.util;
 public class Strings {
 
     private Strings() {
+    	
+    	
     }
 
     /**
